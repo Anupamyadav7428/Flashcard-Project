@@ -1,0 +1,8 @@
+{
+  "num_parallel": 1,
+  "num_ctx": 2048,
+  "num_gqa": 8,
+  "num_gpu": 1,
+  "main_gpu": 0,
+  "low_vram": false
+}
